@@ -1,1 +1,1 @@
-# ishika-s-Personal-Site
+# ishikasPersonalSite
